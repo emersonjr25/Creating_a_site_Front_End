@@ -8,7 +8,11 @@ p{
     font-style: Arial;
 }
 
+
 body{
     background-color: #ffffff; 
     color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    text-align: center;
 }
